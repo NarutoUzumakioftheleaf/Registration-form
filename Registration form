@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+       
+        <h1 style="text-align:centre"> Registration form </h1>
+        <h1>Name</h1>
+        <input type="text" placeholder="Name">
+         <h1>email id</h1>
+         <input type="text"placeholder="email">
+        <h1>password</h1>
+        <input type="password"placeholder="password">
+        <h1>Gender</h1>
+        <input type="checkbox">male
+        <input type="checkbox">female
+        <h1>Age</h1>
+        <input type="radio">18
+        <input type="radio">19
+        <input type="radio">20
+        <h1> </h1>
+        <input type="submit">
+        <input type="reset">
+        
+      
+        
+    </body>
+</html>
